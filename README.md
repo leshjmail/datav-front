@@ -20,9 +20,9 @@
 http://docs.techhawk.cn/guide/report/summary/instructions.html
 ## 演示地址
 http://demos.techhawk.cn/datav/
-## 集成准备
+## 集成说明
 获得nexus仓库访问方式
-## 前端集成
+
 > 工具包
 ```
 // 镜像配置
