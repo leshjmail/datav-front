@@ -1,3 +1,23 @@
+## 定位
+- davav 主要定位于轻量级嵌入式数据展现场景，采用npm组件式嵌入应用系统。datav不包括用户鉴权等基础功能，是一个存粹的嵌入式组件。
+## 功能简述
+- 支持拖拽式所见即所得式设计，布局及色系调整。
+- 数据表支持： 多表头、行列合并展现、多维数据上卷与下钻。
+- 图标支持：柱图、饼图、这些图、散点、雷达图等常见的图表形式。
+- 查询条件：支持内置固定参数、支持数据字典、支持固定值。
+
+## 功能示意
+### 数据表
+![数据表](img/dasigner-data-table-1.png)
+### 图表
+![柱状图](img/dasigner-table-2.png)
+![多元素](img/dasigner-table-3.png)
+### 多维数据
+![多维数据](img/dasigner-table-4.png)
+### 交流群
+![多维数据](img/datav-QQ-group1.png)
+## 文档地址 
+http://docs.techhawk.cn/guide/report/summary/instructions.html
 ## 集成准备
 获得nexus仓库访问方式
 ## 前端集成
