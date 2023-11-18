@@ -18,6 +18,8 @@
 ![多维数据](img/datav-QQ-group1.png)
 ## 文档地址 
 http://docs.techhawk.cn/guide/report/summary/instructions.html
+## 演示地址
+http://demos.techhawk.cn/datav/
 ## 集成准备
 获得nexus仓库访问方式
 ## 前端集成
